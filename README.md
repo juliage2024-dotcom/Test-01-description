@@ -1,2 +1,2 @@
 # Test-01-description
-This is the template description of assignment
+Please write some greetings to the class :-)
